@@ -1,6 +1,7 @@
 body{
     margin: 0;
     padding: 0;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .header{
@@ -16,4 +17,23 @@ nav{
     padding: 2% 6%;
     justify-content: space-between;
     align-items: center;
+}
+
+.nav-bar{
+    flex: 1;
+    text-align: right;
+}
+
+.nav-bar ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 6px 10px;
+    position: relative;
+}
+
+.nav-bar ul li a {
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    
 }
