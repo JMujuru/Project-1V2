@@ -95,8 +95,24 @@ nav{
     .title h1{
         font-size: 30px;
     }
-*/
-  
 
+*/
+  .Training{
+      margin: auto;
+      width: 75%;
+      text-align: center;
+      padding-top: 100px;
+  }
+
+  h2{
+      font-size: 36px;
+  }
+
+  section p{
+      color: #000;
+      font-size: 14px;
+      line-height: 20px;
+      padding: 10px;
+  }
 
     
