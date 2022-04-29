@@ -46,7 +46,7 @@ nav{
     background:#f44336;
     display: block;
     margin: auto;
-    transition: 0.5s;
+    transition: 0.75s;
 }
 
 .nav-bar ul li:hover::after{
@@ -54,7 +54,7 @@ nav{
 }
 
 .title{
-    text-align: :center;
+    text-align: center;
     width: 90%;
     color: black;
     position: absolute;
@@ -70,5 +70,23 @@ nav{
     margin: 5px 0 40px;
     font-size: 15px;
     color: black;
-    text-align: center;
+    
+}
+
+.HURAHH-btn{
+    font-size: 13px;
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    padding: 14px 32px;
+    background: transparent;
+    position: relative;
+    cursor: pointer;
+}
+
+.HURAHH-btn:hover{
+    border: 1px solid black;
+    background: #f44336;
+    transition: 1s;
 }
