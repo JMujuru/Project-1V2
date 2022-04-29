@@ -95,9 +95,10 @@ nav{
 
   .Training{
       margin: auto;
-      width: 75%;
+      width: 100%;
       text-align: center;
       padding-top: 100px;
+      background-color:rgb(211, 211, 211);
   }
 
   h2{
